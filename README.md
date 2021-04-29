@@ -1,2 +1,2 @@
 # Blogger
-A blog web app developed with nodeJS
+A blog web server developed with nodeJS
